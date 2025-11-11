@@ -13,7 +13,7 @@ To build a transparent, community-driven ecosystem where surplus food reaches th
 
 ## ✨ Key Features
 
-- **Register Donations:** Donors can log details of available leftover food (quantity, description, and location).
+- **Register Donations:** Donors can log detail of available leftover food (quantity, description, and location).
 - **Claim Food Donations:** Recipients can view and claim available food donations.
 - **Transparency & Traceability:** Every transaction is publicly recorded on the blockchain.
 - **Owner Oversight:** Contract ownership ensures administrative control for scaling and governance.
@@ -31,7 +31,7 @@ The contract includes the following key functions:
 
 ## ⚙️ Setup Instructions (Optional)
 1. Install dependencies:
-   ```bash
+   ```bash 
    npm install --save-dev hardhat
 
 <img width="1413" height="717" alt="image" src="https://github.com/user-attachments/assets/960ce516-67b9-4fa9-82b2-eef9ab18814a" />
