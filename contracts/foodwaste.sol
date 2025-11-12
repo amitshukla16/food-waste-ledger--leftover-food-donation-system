@@ -32,6 +32,7 @@ contract FoodWasteLedger {
     }
 
     struct Recipient {
+
         address addr;
         string  name;
         string contact;
